@@ -1,0 +1,7 @@
+{
+  "name": "ADEGuard ",
+  "description": "An advanced Pharmacovigilance Dashboard powered by Gemini. It detects Adverse Drug Events (ADEs), extracts entities, and classifies severity from clinical narratives using natural language processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
